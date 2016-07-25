@@ -1,0 +1,10 @@
+CHANGED,/home/neeraj/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleDetailActivity$MyPagerAdapter$override.class
+CHANGED,/home/neeraj/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleDetailActivity$override.class
+CHANGED,/home/neeraj/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleListActivity$Adapter$override.class
+CHANGED,/home/neeraj/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/home/neeraj/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleDetailActivity$4$override.class
+CHANGED,/home/neeraj/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleDetailActivity$4$1$override.class
+CHANGED,/home/neeraj/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleListActivity$ViewHolder$override.class
+CHANGED,/home/neeraj/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleDetailActivity$3$override.class
+CHANGED,/home/neeraj/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleDetailActivity$2$override.class
+CHANGED,/home/neeraj/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleDetailActivity$1$override.class

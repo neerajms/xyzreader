@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/neeraj/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/transition/image_transition.xml",
+        "source": "/home/neeraj/AndroidStudioProjects/xyzreader/XYZReader/src/main/res/transition/image_transition.xml"
+    },
+    {
+        "merged": "/home/neeraj/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/transition/grid_exit.xml",
+        "source": "/home/neeraj/AndroidStudioProjects/xyzreader/XYZReader/src/main/res/transition/grid_exit.xml"
+    }
+]
